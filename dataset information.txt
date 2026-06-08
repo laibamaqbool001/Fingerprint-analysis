@@ -1,0 +1,9 @@
+Dataset: SOCOFing (Sokoto Coventry Fingerprint Dataset)
+
+Source: Kaggle – SOCOFing (https://www.kaggle.com/datasets/ruizgara/socofing)
+
+Images: Approximately 6,000 fingerprint samples
+
+Classes: Three natural fingerprint pattern types — Arch, Loop, and Whorl
+
+Alterations: The dataset also includes synthetically altered fingerprints (easy, medium, hard) to simulate real‑world tampering and test biometric robustness.

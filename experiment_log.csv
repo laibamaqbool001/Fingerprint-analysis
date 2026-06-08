@@ -1,0 +1,3 @@
+Timestamp,Model,Parameters,Accuracy
+2026-03-17 21:23:09,k-NN,n_neighbors=3,0.36666666666666664
+2026-03-17 21:23:10,SVM,kernel=linear,0.5333333333333333
